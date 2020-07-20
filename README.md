@@ -1,6 +1,7 @@
 # NBTNGMA4ED
 This is the source code for the paper ''Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms'' accepted by EMNLP2018.
 
+Introduction video: https://vimeo.com/305199664
 ## Requirements
 - [Tensorflow=1.2.0](https://github.com/tensorflow/tensorflow)
 - numpy
